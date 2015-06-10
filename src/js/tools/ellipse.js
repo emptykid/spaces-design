@@ -64,7 +64,6 @@ define(function (require, exports, module) {
 
         this.keyboardPolicyList = [shiftUKeyPolicy];
         this.activationKey = "e";
-        this.hideTransformControls = true;
     };
     util.inherits(EllipseTool, Tool);
 
